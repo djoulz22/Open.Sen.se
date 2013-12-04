@@ -1,8 +1,8 @@
 {
   "name": "open.sen.se",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module de gestion de Open.sen.se",
-  "main": "lib/opensense.js",
+  "main": "lib/open.sen.se.js",
   "scripts": {
     "test": "no tests"
   },
