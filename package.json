@@ -1,6 +1,6 @@
 {
   "name": "open.sen.se",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module de gestion de Open.sen.se",
   "main": "lib/opensense.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/djoulz22/zipabox.git"
+    "url": "https://github.com/djoulz22/opensense.git"
   },
   "keywords": [
     "opensense"
