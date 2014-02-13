@@ -2,6 +2,8 @@
 
 This is a module to connect, send informations to open.sen.se.
 
+donate to the developer through this >>[link][1]<<
+
 ## License
 
 ```
@@ -31,3 +33,5 @@ This is a module to connect, send informations to open.sen.se.
 ## Description
 
 Using Open.Sen.se
+
+[1]: http://goo.gl/S6Nf4s
