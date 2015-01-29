@@ -4,6 +4,10 @@ This is a module to connect, send informations to open.sen.se.
 
 donate to the developer through this >>[link][1]<<
 
+[![NPM](https://nodei.co/npm/open.sen.se.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/open.sen.se/)
+
+[![NPM](https://nodei.co/npm-dl/open.sen.se.png)](https://nodei.co/npm/open.sen.se/)
+
 ## License
 
 ```
